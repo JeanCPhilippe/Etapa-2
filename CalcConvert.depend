@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587495337 source:c:\users\t-gamer\documents\projetos c\calcconvert\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
